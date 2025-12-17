@@ -1,0 +1,4 @@
+sale_date,region,product,customer_id,units_sold,price_per_unit
+2025-12-01,Kigali,Prepaid Plan,C001,3,10.5
+2025-12-02,Gasabo,Postpaid Plan,C002,1,25
+2025-12-03,Kicukiro,Data Bundle,C003,5,2.5
