@@ -20,8 +20,20 @@ The dataset represents internet sales transactions including:
 
 ## ETL Pipeline Steps
 1. *Extract*: Load raw sales data from a CSV file.
-2. *Transform*: Clean missing values, remove cancelled customers, and standardize data.
-3. *Load*: Store the cleaned data into a SQLite database.
-4. *Analyze*: Run SQL queries to calculate revenue and customer distribution.
+   ## Key Insights
+- Business customers generate higher revenue compared to home users.
+- Data cleaning significantly improves analysis accuracy.
+- The pipeline reflects real-world telecom sales processes.
+
+## How to Run
+1. Clone the repository
+2. Install required libraries: pandas, matplotlib
+3. Run scripts in order from 1_load_data.py to 4_analysis.py
+
+## Author
+Internship-ready project by a data engineering enthusiast.
+3. *Transform*: Clean missing values, remove cancelled customers, and standardize data.
+4. *Load*: Store the cleaned data into a SQLite database.
+5. *Analyze*: Run SQL queries to calculate revenue and customer distribution.
 
 ## Project Structure
