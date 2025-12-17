@@ -1,7 +1,0 @@
-sale_id,date,customer_type,plan,monthly_fee,city,status
-1,2025-01-05,Home,Fiber 50,30,Kigali,Active
-2,2025-01-06,Business,Fiber 100,80,Kigali,Active
-3,2025-01-07,Home,Fiber 50,,Huye,Active
-4,2025-01-08,Home,Fiber 30,25,Musanze,Cancelled
-5,2025-01-09,Business,Fiber 200,120,Kigali,Active
-6,2025-01-10,Home,Fiber 50,30,,Active
